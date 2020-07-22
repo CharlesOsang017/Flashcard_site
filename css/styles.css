@@ -1,0 +1,28 @@
+.here{
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.list{
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.show{
+    display: none;
+}
+#liste{
+    display: none;
+}
+.footer{
+    display: none;
+}
+
+.me{
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+h1{
+    color: blueviolet;
+}
